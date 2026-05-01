@@ -1,0 +1,18 @@
+[submodule "00-frontend-react-restapi"]
+	path = 00-stack-react-frontend
+	url = https://github.com/DineshMoorthy007/quick-note-react-ui.git
+[submodule "01-stack-spring-mysql"]
+	path = 01-stack-spring-mysql
+	url = https://github.com/DineshMoorthy007/quick-note-api-spring-mysql.git
+[submodule "02-stack-go-ravendb"]
+	path = 02-stack-go-ravendb
+	url = https://github.com/DineshMoorthy007/quick-note-api-go-ravendb.git
+[submodule "03-stack-spring-firebase"]
+	path = 03-stack-spring-firebase
+	url = https://github.com/DineshMoorthy007/quick-note-api-spring-firebase.git
+[submodule "04-stack-go-firebase"]
+	path = 04-stack-go-firebase
+	url = https://github.com/DineshMoorthy007/quick-note-api-go-firebase.git
+[submodule "05-stack-react-baas"]
+	path = 05-stack-react-baas
+	url = https://github.com/DineshMoorthy007/quick-note-react-firebase-baas.git
